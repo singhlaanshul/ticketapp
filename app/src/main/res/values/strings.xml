@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Emaar</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="retry">RETRY</string>
+    <string name="api_error_message">Something went wrong</string>
+</resources>
